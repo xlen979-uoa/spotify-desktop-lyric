@@ -1,0 +1,4 @@
+requests
+pystray; sys_platform == "win32"
+Pillow; sys_platform == "win32"
+winsdk==1.0.0b10; sys_platform == "win32"
